@@ -7,3 +7,4 @@ sources:
     tables:
       - name: employees
       - name: departments
+      - name: projects
