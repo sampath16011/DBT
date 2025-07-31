@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: SUBQ  
+    database: SUBQ    
+    schema: SUBQ_SCH        
+    tables:
+      - name: employees
+      - name: departments
